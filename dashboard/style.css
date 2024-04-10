@@ -5,8 +5,9 @@
     box-sizing: border-box;
   }
   body {
-    background-color: #F5F5F5;
+    background-color: #d7d7d7;
     font-size: 22px;
+    font-family: 'Montserrat';
   }
   ul,
   li,
@@ -453,7 +454,7 @@
   }
   .mini-container{
       background-color: violet;
-      width: 28%;
+      width: 32%;
       padding: 3% 2%;
       border-radius: 10px;
       color: #ffffff;
@@ -477,3 +478,10 @@
   }
 
 /** right side top-half finished**
+/** table start **/
+.standard-tabel-design {
+  margin-top: 2%;
+  border: none;
+  background-color: #fff;
+  border-radius: 10px;
+}
